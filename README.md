@@ -1,4 +1,4 @@
-# Fingerprint_Classification
+# Fingerprint Classification using Hand-Crafted Feature Extractions and Machine Learning Model
 
 ---
 This is a college assignment required for Digital Image Processing course (CS456) .<br>
