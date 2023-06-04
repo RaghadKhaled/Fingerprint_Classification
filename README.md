@@ -29,9 +29,8 @@ We use the Fingerprint Verification Competition (FVC) 2004 dataset. It consists 
 
 ### Proposed Method
 
-![Proposed method](https://github.com/RaghadKhaled/Optimization_and_Metaheuristics/blob/main/proposed%20method.jpg)
+![Proposed method](https://github.com/RaghadKhaled/Fingerprint_Classification/blob/main/Model%20pipline.jpg)
 
-The overall model architecture that follows the step of implementation is illustrated in figure above. We describing and explain our approach to tackling the CNN model by following the approach applied in this paper “Novel Convolutional Neural Networks based Jaya algorithm Approach for Accurate Deepfake Video Detection”[1](https://journals.mesopotamian.press/index.php/CyberSecurity/article/view/58). We used their proposed method regarding the hyperparameter tuning of CNN using Jaya optimization algorithm. You can find more detiles about each step i the report.
 
 ---
 
