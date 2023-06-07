@@ -58,8 +58,8 @@ You can follow the code in the jupyter notebook
 
 ### Contributors
 
-[@AlhanoufAlmans](https://github.com/AlhanoufAlmans)
-
 [@KhloudAlnufaie](https://github.com/KhloudAlnufaie)
 
 [@RaghadKhaled](https://github.com/RaghadKhaled)
+
+[@Weaam20](https://github.com/Weaam20)
